@@ -1,0 +1,11 @@
+.cproject
+.project
+Flashcard
+Makefile*
+*.o
+*~
+debug/
+release/
+flashcard.db
+side2
+
